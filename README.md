@@ -24,5 +24,7 @@ I'm a Post Graduate student living in Espoo, Finland. I am a punctual, sincere, 
 - Surfing
 
 #### Write to me: [My email id](cpoonkodi@gmail.com)
+<a href="mailto:cpoonkodi@gmail.com">![cpoonkodi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/poonkodi-chenniappan-7b5225a7/“>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
