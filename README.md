@@ -1,16 +1,28 @@
+
+![PoonkodiBanner](poonkodi.png)
 ### Hi there 👋
 
-<!--
-**cpoonkodi/cpoonkodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Poonkodi Chenniappan!
 
-Here are some ideas to get you started:
+* Currently : Student at Metropolia Open University.
+* Previously : Software Engineer at Apere India Private Limited, Hyderabad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I'm currently learning
+* HTML
+* CSS
+* Javascript
+* Typescript
+* SQL
+
+### About Me ⚡:
+
+I'm a Post Graduate student living in Espoo, Finland. I am a punctual, sincere, stay fully focused and complete the task in time. Outside Tech, I love to read, enjoy dancing and explore nature outdoors. I love learning new web technologies am an avid learner. I have 1.10 years of experience in the field of Software manual testing field of test plan, test cases and Bugs finding.
+
+### What do I do for Fun?
+- I love dancing
+- photography
+- Surfing
+
+#### Write to me: [My email id](cpoonkodi@gmail.com)
+
+
