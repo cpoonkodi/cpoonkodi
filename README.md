@@ -16,12 +16,24 @@
 
 ### About Me ⚡:
 
-I'm a Post Graduate student living in Espoo, Finland. I am a punctual, sincere, stay fully focused and complete the task in time. Outside Tech, I love to read, enjoy dancing and explore nature outdoors. I love learning new web technologies am an avid learner. I have 1.10 years of experience in the field of Software manual testing field of test plan, test cases and Bugs finding.
+Creative and dependable Entry level Web Developer Graduate with a Master of Computer Application looking to leverage my skills to solve interesting problems that delight end-users. 
+Knowledgeable with the principles and techniques of website construction. 
+I am seeking a position with a growing organization where I learn and make a positive impact. I am eager to apply academic and professional background towards launching a successful career as a Web Developer with an employer offering opportunities for professional development.		
+I want to collabrate and contribute for some projects. I can also do freelansing.
+
+### Experience :
+		
+- Developed 50+ test plans and test cases, including performance test plans and security test plans.
+- Drafted testing reports, reducing data to key insights that helped increase team efficiency.
+- Reviewed user interfaces for functionality and adherence to design guidelines.
+- Perform manual tests on 15 client software projects.
+- Collaborated with software development engineers to build a deep understanding of features and architecture prior to testing.
+
 
 ### What do I do for Fun?
-- I love dancing
+- I love to read
 - photography
-- Surfing
+- Explore nature outdoors.
 
 #### Contact Info : 
 <a href="mailto:cpoonkodi@gmail.com">![cpoonkodi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
