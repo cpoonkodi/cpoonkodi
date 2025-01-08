@@ -4,7 +4,7 @@
 
 ### I'm Poonkodi Chenniappan!
 
-* Currently : Student at Metropolia Open University.
+* Currently : Student at Hive Helsinki.
 * Previously : Software Engineer at Apere India Private Limited, Hyderabad.
 
 ### 🌱 I'm currently learning
@@ -13,6 +13,8 @@
 * Javascript
 * Typescript
 * SQL
+* C
+* C++
 
 ### About Me ⚡:
 
