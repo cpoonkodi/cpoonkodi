@@ -18,10 +18,10 @@
 
 ### About Me ⚡:
 
-Creative and dependable Entry level Web Developer Graduate with a Master of Computer Application looking to leverage my skills to solve interesting problems that delight end-users. 
+Creative and dependable Entry level Web Developer Graduate with a Master of Computer Applications looking to leverage my skills to solve interesting problems that delight end-users. 
 Knowledgeable with the principles and techniques of website construction. 
-I am seeking a position with a growing organization where I learn and make a positive impact. I am eager to apply academic and professional background towards launching a successful career as a Web Developer with an employer offering opportunities for professional development.		
-I want to collabrate and contribute for some projects. I can also do freelansing.
+I am seeking a position with a growing organization where I learn and make a positive impact. I am eager to apply my academic and professional background towards launching a successful career as a Web Developer with an employer offering opportunities for professional development.		
+I open to do freelansing also.
 
 ### What do I do for Fun?
 - I love to read
