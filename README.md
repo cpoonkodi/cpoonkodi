@@ -7,7 +7,7 @@
 * Currently : Student at Hive Helsinki.
 * Previously : Software Engineer at Apere India Private Limited, Hyderabad.
 
-### 🌱 I'm currently learning
+### 🌱 Skills
 * HTML
 * CSS
 * Javascript
