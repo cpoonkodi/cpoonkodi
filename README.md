@@ -48,7 +48,7 @@ I open to do freelansing also.
 
 ## 👋 Hi there! I'm a last year programming student at Hive Helsinki. 
 
-<img src="https://i.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="300" align="right" alt="Mountain sunset with code overlay"/>
+<img src="https://i.giphy.com/media/RLVHPJJv7jY1q/giphy.gif" width="300" align="right" alt="Mountain sunset with code overlay"/>
 
 💻 Specialize in full-stack web development, bringing the harmony of nature to clean code.
 
