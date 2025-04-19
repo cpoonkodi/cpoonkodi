@@ -43,24 +43,48 @@ I open to do freelansing also.
 
 #000000000000000000000000000
 
-👋 **Hi there!** I’m a programming student at **Hive Helsinki**, passionate about becoming a **web developer** and diving into real-world projects.  
+ 
+## 👋 Hi there! I’m a last year programming student at Hive Helsinki. 
 
-🔧 **Tech Stack:**  
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express.js  
-- **Databases:** PostgreSQL, MongoDB  
-- **Tools:** Git, VS Code, Docker  
-- **Languages:** C, C++, Kotlin, TypeScript  
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhxcXNjZWhkOXhqa3F5amxtdHdsbjdkYTA1dGI2a3E5dnNwZmR5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qxHO2E2ymeGZK7AFOe/giphy.gif" width="200" align="right"/>
 
-🚀 **My Projects**  
-- **Full-Stack Web Apps**  
-  Modern JavaScript/React-based projects (links coming soon!).  
-- **Hive Helsinki (C/CPP)**  
-  Low-level programming challenges and algorithms.  
+💻 Specialize in full-stack web development.
 
-🌱 **Learning in Public**  
-I’m eager to grow through hands-on experience—currently sharpening my skills in **React** and **backend development**. Open to collaborations!  
+🌱 Eager to contribute to real-world projects and grow as a software developer.
 
-🤝 **Let’s Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)  
-*Reach out for mentorship, project ideas, or just to chat tech!*  
+🤝 Let's connect and discuss exciting opportunities!
+
+### 🚀 Full Stack Projects
+
+  - [**Full Stack**](https://github.com/full-stack-open-lk) | Modern JavaScript-based web development projects
+
+### 🚀 Hive Helsinki Projects
+
+  - [**Hive Projects**](https://github.com/hive-helsinki-projects) | A collection of various projects developed in C and CPP
+
+## 🛠️ Technical skills
+
+### Languages & Frameworks
+[![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+
+[![Kotlin](https://img.shields.io/badge/kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c/language)
+[![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+
+### Databases & Tools
+[![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
+### Operating Systems
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+
+## 🤝 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkilpelainen/)
