@@ -3,12 +3,17 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ5aDU3am90c2pobmF6OXZyN3JqZ3pvdHkya3dhMHhwOWI2eDh2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KQH0WCrlQNWD3uvSZX/giphy.gif" width="300" align="right" alt="Mountain sunset with code overlay"/>
 
-📌 Currently : Student at Hive Helsinki.
+**📌 Entry-Level Web Developer | Student at Hive Helsinki**
 
 🌟Creative and dependable Entry level Web Developer Graduate with a Master of Computer Applications looking to leverage my skills to solve interesting problems that delight end-users. 
 Knowledgeable with the principles and techniques of website construction. 
 I am seeking a position with a growing organization where I learn and make a positive impact. I am eager to apply my academic and professional background towards launching a successful career as a Web Developer with an employer offering opportunities for professional development.		
 I open to do freelansing also.
+
+## 🚀 What I'm Doing
+- Building interactive projects to sharpen my skills
+- Documenting my coding journey (mistakes included!)
+- Open to collaborations — let's learn together!
 
 ### What do I do for Fun?
 - I love to read
@@ -36,6 +41,9 @@ I open to do freelansing also.
 ### Databases & Tools
 [![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+## 🌱 Mindset
+> "No professional experience yet, but overflowing with curiosity! I'm eager to see how code functions in real-world applications and to grow through hands-on contributions. Currently building projects with JavaScript, React, and Node.js to bridge this gap."
 
 ## 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cpoonkodi/)
