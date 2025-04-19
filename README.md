@@ -1,24 +1,21 @@
 
-![PoonkodiBanner](poonkodi.png)
-### Hi there 👋
 
-### I'm Poonkodi Chenniappan!
+#### Contact Info : 
+<a href="mailto:cpoonkodi@gmail.com">![cpoonkodi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/poonkodi-chenniappan-7b5225a7/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-* Currently : Student at Hive Helsinki.
-* Previously : Software Engineer at Apere India Private Limited, Hyderabad.
 
-### 🌱 Skills
-* HTML
-* CSS
-* Javascript
-* Typescript
-* SQL
-* C
-* C++
 
-### About Me ⚡:
+#000000000000000000000000000
 
-Creative and dependable Entry level Web Developer Graduate with a Master of Computer Applications looking to leverage my skills to solve interesting problems that delight end-users. 
+ 
+## 👋 Hi there! I’m Poonkodi Chenniappan! 
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ5aDU3am90c2pobmF6OXZyN3JqZ3pvdHkya3dhMHhwOWI2eDh2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KQH0WCrlQNWD3uvSZX/giphy.gif" width="300" align="right" alt="Mountain sunset with code overlay"/>
+
+📌 Currently : Student at Hive Helsinki.
+
+🌟Creative and dependable Entry level Web Developer Graduate with a Master of Computer Applications looking to leverage my skills to solve interesting problems that delight end-users. 
 Knowledgeable with the principles and techniques of website construction. 
 I am seeking a position with a growing organization where I learn and make a positive impact. I am eager to apply my academic and professional background towards launching a successful career as a Web Developer with an employer offering opportunities for professional development.		
 I open to do freelansing also.
@@ -28,39 +25,11 @@ I open to do freelansing also.
 - photography
 - Explore nature outdoors.
 
-#### Contact Info : 
-<a href="mailto:cpoonkodi@gmail.com">![cpoonkodi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="https://www.linkedin.com/in/poonkodi-chenniappan-7b5225a7/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
-
-
-
-
-
-
-
-
-#000000000000000000000000000
-
- 
-## 👋 Hi there! I’m a last year programming student at Hive Helsinki. 
-
-## 👋 Hi there! I'm a last year programming student at Hive Helsinki. 
-
-<img src="https://i.giphy.com/media/RLVHPJJv7jY1q/giphy.gif" width="300" align="right" alt="Mountain sunset with code overlay"/>
-
-💻 Specialize in full-stack web development, bringing the harmony of nature to clean code.
-
-🌱 Like a growing tree, I'm branching out into new technologies and frameworks.
-
-🏔️ Determined to climb every coding challenge that comes my way.
-
 ### 🚀 Full Stack Projects
 [**Full Stack**](https://github.com/full-stack-open-lk) | Modern JavaScript-based web development projects
 
 ### 🚀 Hive Helsinki Projects
-[**Hive Projects**](https://github.com/hive-helsinki-projects) | C/C++ systems programming
+[**Hive Projects**](https://github.com/coding-school-projects) | C/C++ systems programming
 
 ## 🛠️ Technical skills
 
@@ -73,13 +42,11 @@ I open to do freelansing also.
 ### Web Development
 [![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
 ### Databases & Tools
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ## 🌍 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkilpelainen/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cpoonkodi/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cpoonkodi)
