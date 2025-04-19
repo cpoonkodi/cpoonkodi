@@ -1,14 +1,11 @@
  
-## 👋 Hi there! I’m Poonkodi Chenniappan! 
+## 👋 Hi there! I’m a student at Hive Helsinki.
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ5aDU3am90c2pobmF6OXZyN3JqZ3pvdHkya3dhMHhwOWI2eDh2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KQH0WCrlQNWD3uvSZX/giphy.gif" width="300" align="right" alt="Mountain sunset with code overlay"/>
 
-**📌 Entry-Level Web Developer | Student at Hive Helsinki**
+**📌 Entry-Level Web Developer**
 
-🌟Creative and dependable Entry level Web Developer Graduate with a Master of Computer Applications looking to leverage my skills to solve interesting problems that delight end-users. 
-Knowledgeable with the principles and techniques of website construction. 
-I am seeking a position with a growing organization where I learn and make a positive impact. I am eager to apply my academic and professional background towards launching a successful career as a Web Developer with an employer offering opportunities for professional development.		
-I open to do freelansing also.
+🌟 Creative and detail-oriented **Web Developer**, passionate about building user-centric solutions. 
 
 ## 🚀 What I'm Doing
 - Building interactive projects to sharpen my skills
@@ -21,7 +18,7 @@ I open to do freelansing also.
 - Explore nature outdoors.
 
 ### 🚀 Full Stack Projects
-[**Full Stack**](https://github.com/full-stack-open-lk) | Modern JavaScript-based web development projects
+[**Full Stack**](https://github.com/full-stack-projects) | Modern JavaScript-based web development projects
 
 ### 🚀 Hive Helsinki Projects
 [**Hive Projects**](https://github.com/coding-school-projects) | C/C++ systems programming
