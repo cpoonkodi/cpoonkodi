@@ -1,13 +1,3 @@
-
-
-#### Contact Info : 
-<a href="mailto:cpoonkodi@gmail.com">![cpoonkodi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="https://www.linkedin.com/in/poonkodi-chenniappan-7b5225a7/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
-
-#000000000000000000000000000
-
  
 ## 👋 Hi there! I’m Poonkodi Chenniappan! 
 
@@ -50,3 +40,5 @@ I open to do freelansing also.
 ## 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cpoonkodi/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cpoonkodi)
+<a href="https://www.linkedin.com/in/cpoonkodi/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
