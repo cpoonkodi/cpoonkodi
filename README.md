@@ -46,46 +46,40 @@ I open to do freelansing also.
  
 ## 👋 Hi there! I’m a last year programming student at Hive Helsinki. 
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R5dGZ4eGx4bWx0dGJ6dG5zZ2VlZ3ZqZzY1aHZqZzY1aHZqZzY1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="200" align="right"/>
+## 👋 Hi there! I'm a last year programming student at Hive Helsinki. 
 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ5d3V2aG5nY2F3dW5qZ2V5b2VhZ2VlYzR4dWZ6eGJ5aXh0bW1kYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="300" align="right" alt="Mountain sunset with code overlay"/>
 
-💻 Specialize in full-stack web development.
+💻 Specialize in full-stack web development, bringing the harmony of nature to clean code.
 
-🌱 Eager to contribute to real-world projects and grow as a software developer.
+🌱 Like a growing tree, I'm branching out into new technologies and frameworks.
 
-🤝 Let's connect and discuss exciting opportunities!
+🏔️ Determined to climb every coding challenge that comes my way.
 
 ### 🚀 Full Stack Projects
-
-  - [**Full Stack**](https://github.com/full-stack-open-lk) | Modern JavaScript-based web development projects
+[**Full Stack**](https://github.com/full-stack-open-lk) | Modern JavaScript-based web development projects
 
 ### 🚀 Hive Helsinki Projects
-
-  - [**Hive Projects**](https://github.com/hive-helsinki-projects) | A collection of various projects developed in C and CPP
+[**Hive Projects**](https://github.com/hive-helsinki-projects) | C/C++ systems programming
 
 ## 🛠️ Technical skills
 
-### Languages & Frameworks
-[![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+### Core Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c/language)
+[![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 
-[![Kotlin](https://img.shields.io/badge/kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c/language)
-[![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+### Web Development
+[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
 ### Databases & Tools
-[![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
-### Operating Systems
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
-
-## 🤝 Connect with me
+## 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkilpelainen/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
