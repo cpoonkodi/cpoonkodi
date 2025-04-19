@@ -7,7 +7,7 @@
 
 🌟 Creative and detail-oriented **Web Developer**, passionate about building user-centric solutions. 
 
-## 🚀 What I'm Doing
+### 🚀 What I'm Doing
 - Building interactive projects to sharpen my skills
 - Documenting my coding journey (mistakes included!)
 - Open to collaborations — let's learn together!
