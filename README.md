@@ -20,8 +20,8 @@
 ### 🚀 Hive Helsinki Projects
 [**Hive Projects**](https://github.com/coding-school-projects) | C/C++ systems programming
 
-### 🚀 Other Projects
-[**Other Projects**](https://github.com/full-stack-projects) | Modern JavaScript-based web development projects
+### 🚀 Web Projects
+[**Web Projects**](https://github.com/web-projects-cp) | Modern JavaScript-based web development projects
 
 ## 🛠️ Technical skills
 
